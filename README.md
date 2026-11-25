@@ -12,6 +12,8 @@ JARVIS integration requirements are defined in the JARVIS repository under `docs
 
 ## MVP
 
+The items below define the planned MVP. The reviewed repository currently contains design documents and a telemetry adapter, rather than an operating customer product. See [adapter contract and implementation status](docs/JARVIS_TELEMETRY.md).
+
 - Secure account creation and onboarding
 - Consent and protected customer profile
 - Digital Estate Score with explainable weighting
